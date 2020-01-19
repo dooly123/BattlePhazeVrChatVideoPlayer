@@ -1,0 +1,8 @@
+Warning, this is not done yet and contains some bugs but should mainly work fine!!
+for quick setup just drop the videoPlayerPrefab into your scene.
+
+attached to the parent of the video player is the helper script i built this to assist with generating the video & speaker setup among RPC control, 
+however due to limitations of unitys Callback system for preplay linking i cannot setup audio linking among a few other things.
+
+things that are in the works but are not functioning:
+ 3D support , Emission Support, Legacy Video Player
